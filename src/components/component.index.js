@@ -29,8 +29,8 @@ export default class Index extends Component {
       return (
         <div>
           <h3 align="center">Employee List</h3>
-          <table className="table table-striped" style={{ marginTop: 20 }}>
-            <thead>
+          <table className="table table-hover" style={{ marginTop: 20 }}>
+            <thead className="thead-dark">
               <tr>
                 <th>Employee ID Number</th>
                 <th>First Name</th>
