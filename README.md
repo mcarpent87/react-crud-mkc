@@ -1,3 +1,8 @@
+## REACT CRUD TABLE
+This application allows a user to create, view, edit, and delete employees from a simple table. 
+
+React.js, Node.js, Mongoose, and Bootstrap 4 were used to create this application. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
